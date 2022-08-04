@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JustMovie</string>
+    <string name="search_film">Mau Cari Film Apa Hari ini?</string>
+
+    <string-array name="Pilihan_Bahasa">
+        <item>Silahkan Pilih Bahasa</item>
+        <item>English</item>
+        <item>Indonesia</item>
+        <item>Germany</item>
+        <item>Japan</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

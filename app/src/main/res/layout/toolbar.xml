@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_marginTop="10dp"
+    android:id="@+id/toolbar">
+
+    <ImageView
+        android:id="@+id/logoToolbar"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/logo_toolbar"/>
+
+    <ImageView
+        android:id="@+id/imgSetting"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/settings"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"/>
+
+</RelativeLayout>
